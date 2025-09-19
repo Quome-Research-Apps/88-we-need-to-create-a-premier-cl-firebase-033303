@@ -1,0 +1,1 @@
+{"name": "88-we-need-to-create-a-premier-cl-firebase-033303", "spec": {"port": 8000, "containers": [{"image": "", "name": "88-we-need-to-create-a-premier-cl-firebase-033303", "port": 8000, "registry_secret": "benchmarks-docker-credentials"}]}}
